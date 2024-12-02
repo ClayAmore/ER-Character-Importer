@@ -1,7 +1,5 @@
-# Tauri + Yew
+# ER Character Importer
 
-This template should help get you started developing with Tauri and Yew.
+Tool for importing Elden Ring save characters between save files. Compatible with PC and Playstation Save Wizard exported saves.
 
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+![tool](https://github.com/user-attachments/assets/9d0acebc-87f5-4d28-8005-da486e98d174)
